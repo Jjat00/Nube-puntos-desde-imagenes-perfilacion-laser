@@ -45,4 +45,17 @@ Si deseamos podemos aplicar un filtro a la nube de puntos para disminuir ruido y
 ### Nube de puntos con filtro
 <div style="text-align:center"> <img width=400 src="public/pcrf.png"> </img></div>
 
+# Correr el proyecto
 
+```
+git clone https://github.com/Jjat00/Nube-puntos-desde-imagenes-perfilacion-laser.git
+```
+```
+cd Nube-puntos-desde-imagenes-perfilacion-laser
+```
+```
+pip3 install -r requirements.txt
+```
+```
+python reconstruction.py
+```
